@@ -6,3 +6,7 @@ To run:
 - To start server: ant server
 - To start client: ant client
 
+Sample users (username - password):
+- sheila - parker
+- test1 - test1
+- test2 -test2
