@@ -1,0 +1,10 @@
+May 16, 2017 1:19:09 PM server.Server run
+INFO: Initializing Model
+May 16, 2017 1:19:09 PM server.Server run
+INFO: Initializing HTTP Server
+May 16, 2017 1:19:09 PM server.Server run
+INFO: Starting HTTP Server
+May 16, 2017 1:19:19 PM server.ValidateUserHandler handle
+INFO: Successfully validated: sheila(Sheila Parker)
+May 16, 2017 1:20:00 PM server.ValidateUserHandler handle
+INFO: Successfully validated: sheila(Sheila Parker)
